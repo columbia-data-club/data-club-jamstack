@@ -1,5 +1,7 @@
 # Data Club Jamstack
 
+This is the bare-bones Data Club Jamstack page, based on [this Observable notebook](https://observablehq.com/@columbia-data-club/day-one-generating-jamstack-websites)
+
 This is an [Observable Framework](https://observablehq.com/framework) app. To start the local preview server, run:
 
 ```
